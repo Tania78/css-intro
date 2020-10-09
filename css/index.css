@@ -1,0 +1,19 @@
+h1{
+    background-color: blue
+}
+h1 {
+    color: red
+    
+   }
+p{
+    colour:yellow
+
+}
+#chosen {
+    background-color: yellow
+}
+div{
+    display:flex;
+    justify-content: space-between;
+}
+
